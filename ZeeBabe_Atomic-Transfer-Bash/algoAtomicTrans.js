@@ -8,7 +8,7 @@ const ASSET_ID = 21364625;
 
 const host = "https://testnet-algorand.api.purestake.io/ps2";
 const token = {
-    "x-api-key": "HfiEnjsWGW28EEEdqURGt40hxXT3hVSs6nkGAr9Y"
+    "x-api-key": "<token>"
 };
 const port = '';
 const client = new algosdk.Algodv2(token, host, port);
